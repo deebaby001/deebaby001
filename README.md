@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DONNA "DEE" HARDY</h1>
 <h3 align="center">A Fun-Loving Data Scientist...Curious about the World!</h3>
 
-- 🔭 I’m currently working on [Finanical Fraud](https://github.com/deebaby001/finanical-fraud)
+- 🔭 I’m currently working on [Finanical Fraud](https://github.com/deebaby001/Financial-Fraud))
 
 - 🌱 I’m advancing my knowledge in **ML, AI and Cybersecurity**
 
