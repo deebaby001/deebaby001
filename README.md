@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DONNA "DEE" HARDY</h1>
 <h3 align="center">A Fun-Loving Data Scientist...Curious about the World!</h3>
 
-- 🔭 I’m currently working on [March Madness](https://github.com/deebaby001/March-Madness-2024)
+- 🔭 I’m currently working on [Weightloss Drugs](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes)
 
 - 🌱 I’m advancing my knowledge in **ML, AI and Cybersecurity**
 
