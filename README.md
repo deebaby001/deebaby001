@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm DONNA "DEE" HARDY</h1>
-<h3 align="center">A Fun-Loving Data Scientist...Curious about the World!</h3>
+<h3 align="center">A Fun-Loving Data Analyst and Aspiring Data Scientist...Curious about the WORLD and how to Make it a Better Place!</h3>
 
-- 🔭 I’m currently working on [Weightloss Drugs](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes)
+- 🔭 I’m currently working on [[AI Mathmatical Olympiad]([https://github.com/deebaby001/AI-Mathematical--Olympiad-Progress-Prize2-]).
 
-- 🌱 I’m advancing my knowledge in **ML, AI and Cybersecurity**
+- 🌱 I’m advancing my knowledge in **ML, Generative AI, NLP and Cybersecurity**
 
-- 👯 I’m looking to collaborate on [Shopping Behavior](https://github.com/deebaby001/shopping-behavior)
+- 👯 I’m looking to collaborate on [Depression On Mental Health]([https://github.com/deebaby001/Depression-On-Mental-Health]) 
 
-- 🤝 I’m looking for help with [Jazzin'Up GitHub Web Page](https://github.com/deebaby001/deebaby001.github.io)
+- 🤝 I’m looking for help with [Jazzin'Up GitHub Web Page][(https://github.com/deebaby001/deebaby001.github.io]
 
 - 👨‍💻 All Public projects are available at [https://github.com/deebaby001](https://github.com/deebaby001)
 
@@ -19,7 +19,7 @@
 
 - 📄 LinkedIn [https://www.linkedin.com/in/donna-hardy-3474b328/](https://www.linkedin.com/in/donna-hardy-3474b328/)
 
-- ⚡ Fun fact about ME! **I create international recipes.**
+- ⚡ Fun fact about ME! **I re-create various international recipes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
