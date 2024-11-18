@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm DONNA "DEE" HARDY</h1>
 <h3 align="center">A Fun-Loving Data Analyst and Aspiring Data Scientist...Curious about the WORLD and how to Make it a Better Place!</h3>
 
-- 🔭 I’m currently working on [[AI Mathmatical Olympiad]([https://github.com/deebaby001/AI-Mathematical--Olympiad-Progress-Prize2-]).
+- 🔭 I’m currently working on [AI Mathmatical Olympiad][(https://github.com/deebaby001/AI-Mathematical--Olympiad-Progress-Prize2-].
 
 - 🌱 I’m advancing my knowledge in **ML, Generative AI, NLP and Cybersecurity**
 
-- 👯 I’m looking to collaborate on [Depression On Mental Health]([https://github.com/deebaby001/Depression-On-Mental-Health]) 
+- 👯 I’m looking to collaborate on [Depression On Mental Health][(https://github.com/deebaby001/Depression-On-Mental-Health].
 
 - 🤝 I’m looking for help with [Jazzin'Up GitHub Web Page][(https://github.com/deebaby001/deebaby001.github.io]
 
