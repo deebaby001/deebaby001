@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DONNA "DEE" HARDY</h1>
-<h3 align="center">A Fun-Loving Data Analyst and Aspiring Data Scientist...Curious about the WORLD and how to Make it a Better Place!</h3>
+<h3 align="center">A Fun-Loving Data Scientist...Curious about the WORLD and how to Make it a Better Place!</h3>
 
 - 🔭 I’m currently working on [AI NLP-Competition][(https://github.com/deebaby001/Sailea-X-AI-UNC-NLP-Competition-Deebaby)].
 
