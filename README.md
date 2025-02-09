@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DONNA "DEE" HARDY</h1>
 <h3 align="center">A Fun-Loving Data Scientist...Curious about the WORLD and how to Make it a Better Place!</h3>
 
-- 🔭 I’m currently working on [(https://github.com/deebaby001/Dee-NLP-Sentiment-Analysis-XM.git))].
+- 🔭 I’m currently working on [NLP Sentiment Analysis using BERT][(https://github.com/deebaby001/Dee-NLP-Sentiment-Analysis-XM.git))].
 
 - 🌱 I’m advancing my knowledge in **ML, Generative AI, NLP and Cybersecurity**
 
