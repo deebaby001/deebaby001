@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [5Day GEN AI Project][([https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-].
 
-- 🌱 I’m advancing my knowledge in **ML, Generative AI, NLP and Cybersecurity**
+- 🌱 I’m advancing my knowledge in **ML, Generative AI, Agentic AI and NLP**
 
 - 👯 I’m looking to collaborate on [Depression On Mental Health][(https://github.com/deebaby001/Depression-On-Mental-Health].
 
