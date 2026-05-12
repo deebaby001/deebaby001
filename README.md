@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm DONNA "DEE" HARDY</h1>
 <h3 align="center">A Fun-Loving Data Scientist...Curious about the WORLD and how to Make it a Better Place!</h3>
 
-- 🔭 I’m currently working on [ A Kaggle project--- **Stay Tuned** Details To Be Provided by 04-16-2026].
+- 🔭 I’m currently working on [ Gemma 4 Good Hackathon - KidAssure AI App] [([https://github.com/deebaby001/KidAssure]).
+- 🔭 In March 2026, I completed the competition [Measuring Progress Towards AGI]  [([https://github.com/deebaby001/Benchmarks-for-Measuring-Progress-Towards-AGI]).
   
-- 🌱 I’m advancing my knowledge in **AI, ML, Generative AI, Agentic AI and NLP**
+- 🌱 I’m advancing my knowledge in **AI Application Development, ML, Generative AI, Agentic AI, NLP and more.*//;//////////////*
 
 - 🔭 I'm continuing my education by: Completed a Google 5-Day work shop on GEN AI [5Day GEN AI Project][([https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-]. Completed continued learning in LLM models with [NCAA Womens' and Mens'March Madness 2026] ([https://github.com/deebaby001/March-Madness-2026]).
 
