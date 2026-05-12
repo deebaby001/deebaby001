@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [ Gemma 4 Good Hackathon - KidAssure AI App] [([https://github.com/deebaby001/KidAssure]).
 - 🔭 In March 2026, I completed the competition [Measuring Progress Towards AGI]  [([https://github.com/deebaby001/Benchmarks-for-Measuring-Progress-Towards-AGI]).
   
-- 🌱 I’m advancing my knowledge in **AI Application Development, ML, Generative AI, Agentic AI, NLP and more.*//;//////////////*
+- 🌱 I’m advancing my knowledge in **AI Application Development, ML, Generative AI, Agentic AI, NLP and more.**
 
 - 🔭 I'm continuing my education by: Completed a Google 5-Day work shop on GEN AI [5Day GEN AI Project][([https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-]. Completed continued learning in LLM models with [NCAA Womens' and Mens'March Madness 2026] ([https://github.com/deebaby001/March-Madness-2026]).
 
